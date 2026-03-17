@@ -25,9 +25,9 @@ class Lampada {
         System.out.println("Ligada: " + top.ligada + " potencia: " + top.potencia);
 
         top.desligar();
-        System.out.println("Ligada:" + top.ligada + "potencia:" + top.potencia);
+        System.out.println("  Ligada:  " + top.ligada + "  potencia: " + top.potencia);
 
         top.meialuz();
-        System.out.println("Ligada:" + top.ligada + "potencia:" + top.potencia);
+        System.out.println("   Ligada:    " + top.ligada + "  potencia:  " + top.potencia);
     }
 }
